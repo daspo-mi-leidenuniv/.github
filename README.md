@@ -6,15 +6,15 @@ We focus on data analysis and statistical methods in survival analysis applied t
 
 ---
 
-## 📜 Historic Publications
+## 📜 Historic Repositories
 
 These repositories are linked to past publications and are maintained in the original personal profiles to preserve historical citations:
 
-- [Survival Analysis 2018](https://github.com/old-profile/survival-analysis-2018) – Referenced in Journal X
-- [Data Cleaning 2020](https://github.com/old-profile/data-cleaning-2020) – Referenced in Conference Y
-- [Oncology ML Models 2019](https://github.com/old-profile/oncology-ml-2019) – Linked in Publication Z
-
-> These repositories are kept in their original location to maintain citation integrity.
+- Causal effect of chemotherapy received dose intensity on survival outcome: a retrospective study in osteosarcoma [GitHub repo](https://github.com/mspreafico/TTEcausalRDI) – doi: [10.1186/s12874-024-02416-x](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02416-x)
+- Longitudinal latent overall toxicity (LOTox) profiles in osteosarcoma: a new taxonomy based on latent Markov models [GitHub repo](https://github.com/mspreafico/BO06-LOTox) – doi: [10.1007/s10260-024-00767-9](https://link.springer.com/article/10.1007/s10260-024-00767-9)
+- Statistical models versus machine learning for competing risks: development and validation of prognostic models, 2023 - [GitHub repo](https://github.com/old-profile/survival-analysis-2018) – doi: [10.1186/s12874-023-01866-z](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01866-z)
+- Modelling time-varying covariates effect on survival via functional data analysis: application to the MRC BO06 trial in osteosarcoma, 2023 [GitHub repo](https://github.com/mspreafico/BO06-FunCM) – doi: [10.1007/s10260-022-00647-0](https://link.springer.com/article/10.1007/s10260-022-00647-0)
+- Title [GitHub repo](https://github.com/old-profile/oncology-ml-2019) – doi: []()
 
 ---
 
