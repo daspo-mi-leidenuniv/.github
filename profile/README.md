@@ -6,7 +6,7 @@ We focus on data analysis and statistical methods in survival analysis applied t
 
 📬 **Contact**: For inquiries or collaboration, please reach out to the group via [daspo@math.leidenuniv.nl](daspo@math.leidenuniv.nl)
 
-🌐 **Wbsite**: Learn more about our work on our [official DASPO website](https://sites.google.com/view/daspo/home)
+🌐 **Website**: Learn more about our work on our [official DASPO website](https://sites.google.com/view/daspo/home)
 
 ---
 
