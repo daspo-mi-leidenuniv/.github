@@ -23,7 +23,7 @@ We focus on data analysis and statistical methods in survival analysis applied t
 
 ## 📜 Historic Repositories
 
-These repositories are linked to past publications and are maintained in the original personal profiles to preserve historical citations:
+These repositories are linked to past research projects and were created before this page. They are associated with previous publications and remain in the original personal profiles.
 
 | Repository | Description | Reference |
 |------------|-------------|-----------|
