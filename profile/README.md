@@ -38,11 +38,12 @@ The following repositories are linked to current or completed DASPO projects and
 | | [GKantidakis/Simulations-SNNs-vs-Cox](https://github.com/GKantidakis/Simulations-SNNs-vs-Cox) | A Simulation Study to Compare the Predictive Performance of Survival Neural Networks with Cox Models for Clinical Trial Data, 2021 | doi: [10.1155/2021/2160322](https://onlinelibrary.wiley.com/doi/10.1155/2021/2160322)|
 | | [GKantidakis/Survival-prediction-models-since-liver-transplantation](https://github.com/GKantidakis/Survival-prediction-models-since-liver-transplantation) | Survival prediction models since liver transplantation - comparisons between Cox models and machine learning techniques, 2020 | doi: [10.1186/s12874-020-01153-1](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01153-1)
 
-
+<br>
+ 
 The repositories listed below are related to additional research activities in the field of survival analysis associated with DASPO members.
 
-| Other projects, Topics | Repository | Description | Reference |
-|-----------------------|------------|-------------|-----------|
+| Topics | Repository | Description | Reference |
+|--------|------------|-------------|-----------|
 | `class-imbalance`|[HenkvdPol/Class_Imbalance_Prediction](https://github.com/HenkvdPol/Class_Imbalance_Prediction)|Strong Class Imbalance in Logistic Regression: Comparison of Resampling Techniques with Threshold Probability under Varying Strength of Predictive Covariates, 2025|Available soon|
 | `causal-inference`|[mspreafico/PosViolMSM](https://github.com/mspreafico/PosViolMSM)|Impact of Near-Positivity Violations on IPTW-Estimated Marginal Structural Survival Models With Time-Dependent Confounding, 2025| doi: [10.1002/bimj.70093](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70093) |
 |`multi-state models`,`interval-censoring`|[mspreafico/auc-idmIC](https://github.com/mspreafico/auc-idmIC)| Discrimination performance in illness-death models with interval-censored disease data, 2025 | arXiv: [2504.19726](https://arxiv.org/abs/2504.19726) |
