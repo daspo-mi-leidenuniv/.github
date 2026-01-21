@@ -12,8 +12,11 @@ We focus on data analysis and statistical methods in survival analysis applied t
 
 ## 🚀 Active Projects / Repositories
 
-🛠️ In development — new content will be available soon.
+| Topics | Repository | Reference |
+|---------------|------------|------------------------|
+|`predictimands`,<br> `survival-analysis`|[predictimands-sx-ews](https://github.com/daspo-mi-leidenuniv/predictimands-sx-ews)|Predictimand-Based Mortality Risk Analysis in Ewing Sarcoma: Aligning Prediction with Purpose *[Submitted]*|
 
+🛠️ In development — new content will be available soon.
 
 📌 **Topics & Tags**: All new repositories will be tagged with relevant topics to help navigation and filtering:
 
