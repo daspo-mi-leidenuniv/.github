@@ -14,9 +14,14 @@ We focus on data analysis and statistical methods in survival analysis applied t
 
 | Topics | Repository | Reference |
 |---------------|------------|------------------------|
+|`causal-survival-analysis`,<br> `latent-markov-models`|[latent-causal](https://github.com/daspo-mi-leidenuniv/latent-causal)| A two-step causal inference approach for survival outcomes with longitudinal latent confounding: an application to treatment modifications in Ewing sarcoma *[Submitted]*|
+|`heterogeneous-treatment-effect`, `CATE`, <br> `HL-Cox`, `causal-survival-forests` |[treatment-heterogeneity-in-survival-data](https://github.com/sophiavangoor/treatment-heterogeneity-in-survival-data)|Hierarchical Lasso-regularized Cox models versus causal survival forests for heterogeneous treatment effect estimation: a secondary analysis of the EE2012 trial *[Submitted]*|
 |`predictimands`,<br> `survival-analysis`|[predictimands-sx-ews](https://github.com/daspo-mi-leidenuniv/predictimands-sx-ews)|Predictimand-Based Mortality Risk Analysis in Ewing Sarcoma: Aligning Prediction with Purpose *[Submitted]*|
+|`target-trial-emulation`|[pactes-ctx-adj](https://github.com/daspo-mi-leidenuniv/pactes-ctx-adj)|Assessing the effect of chemotherapy dose reductions and time delay on event-free survival in Ewing Sarcoma: a retrospective analysis of the Euro Ewing 2012 trial, 2026; doi: [10.1016/j.ejca.2026.117057](https://www.ejcancer.com/article/S0959-8049(26)00839-7/fulltext)|
 
-🛠️ In development — new content will be available soon.
+
+
+🛠️ New content will be available soon!
 
 📌 **Topics & Tags**: All new repositories will be tagged with relevant topics to help navigation and filtering:
 
@@ -57,5 +62,5 @@ The repositories listed below are related to additional research activities in t
 
 ---
 
-Last update: November 12th, 2025
+Last update: November 24th, 2026
 
