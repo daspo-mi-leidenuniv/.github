@@ -21,7 +21,7 @@ We focus on data analysis and statistical methods in survival analysis applied t
 
 
 
-🛠️ New content will be available soon!
+🛠️ New contents will be available soon!
 
 📌 **Topics & Tags**: All new repositories will be tagged with relevant topics to help navigation and filtering:
 
