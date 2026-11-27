@@ -14,6 +14,7 @@ We focus on data analysis and statistical methods in survival analysis applied t
 
 | Topics | Repository | Reference |
 |---------------|------------|------------------------|
+|`multistate-models`,<br> `calibration`|[mstate-calib](https://github.com/daspo-mi-leidenuniv/mstate-calib)| Calibration assessment in multistate prediction models: a simulation study and clinical applications *[Submitted]*|
 |`causal-survival-analysis`,<br> `latent-markov-models`|[latent-causal](https://github.com/daspo-mi-leidenuniv/latent-causal)| A two-step causal inference approach for survival outcomes with longitudinal latent confounding: an application to treatment modifications in Ewing sarcoma *[Submitted]*|
 |`heterogeneous-treatment-effect`, `CATE`, <br> `HL-Cox`, `causal-survival-forests` |[treatment-heterogeneity-in-survival-data](https://github.com/sophiavangoor/treatment-heterogeneity-in-survival-data)|Hierarchical Lasso-regularized Cox models versus causal survival forests for heterogeneous treatment effect estimation: a secondary analysis of the EE2012 trial *[Submitted]*|
 |`predictimands`,<br> `survival-analysis`|[predictimands-sx-ews](https://github.com/daspo-mi-leidenuniv/predictimands-sx-ews)|Predictimand-Based Mortality Risk Analysis in Ewing Sarcoma: Aligning Prediction with Purpose *[Submitted]*|
